@@ -4,7 +4,7 @@
  
 **- Puis modifié et personnalisé afin d’offrir une meilleure sécurité et une meilleure stabilité aux utilisateurs.**
 
-***- Compatible sur DOFUS Retro et DOFUS 3.0.**
+***- Compatible sur DOFUS Retro et DOFUS 3.0.***
 ***- Plus performant et plus optimisé que Organizer V1.***
 
 ***- JustSoft permet de changer de personnage beaucoup plus facilement en jeu grâce à une interface en forme de roue, simple et rapide à utiliser.***
