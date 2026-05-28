@@ -1,8 +1,7 @@
 # JustSoft
 
-***- Gestionnaire de fenêtres DOFUS sans Internet, sans bot et sans automatisation, 100 % autorisé par Ankama , JustSoft est basé sur le projet*** ***open-source "Dosoft by Luframe : https://github.com/luframecode/dosoft". ***
+*** Gestionnaire de fenêtres DOFUS sans Internet, sans bot et sans automatisation, 100 % autorisé par Ankama , JustSoft est basé sur le projet open-source "Dosoft by Luframe : https://github.com/luframecode/dosoft".***
  
-  
 **- Puis modifié et personnalisé afin d’offrir une meilleure sécurité et une meilleure stabilité aux utilisateurs.**
 
 ***- Compatible sur DOFUS Retro et DOFUS 3.0.**
