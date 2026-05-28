@@ -1,0 +1,21 @@
+JustSoft - modifications appliquées
+
+- Nom affiché renommé : DOSOFT/Dosoft/dosoft -> JUSTSOFT/JustSoft/justsoft.
+- Vérification de version Internet supprimée.
+- Dépendance requests supprimée.
+- Ouverture navigateur / tutoriel en ligne désactivée.
+- Script installateur : exclusion Windows Defender via PowerShell supprimée.
+- Interface passée en mode clair avec thème vert et couleurs principales vert clair.
+- Artefacts précompilés originaux supprimés du ZIP de sortie (installer_output, __pycache__).
+- Marqueurs de conflit Git nettoyés dans main.py et requirements.txt.
+
+Fonctionnalités conservées :
+- détection automatique des fenêtres Dofus Unity/Rétro ;
+- roue radiale ;
+- raccourcis clavier/souris configurables ;
+- focus/switch de fenêtres ;
+- tri barre Windows ;
+- gestion chef/team/comptes actifs ;
+- icône système.
+
+Note : ce ZIP contient le code source modifié. Pour obtenir un .exe Windows, lance build.cmd sur ton PC Windows.
