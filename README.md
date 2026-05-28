@@ -8,5 +8,5 @@
 ***- Plus performant et plus optimisé que Organizer V1.***
 
 ***- JustSoft permet de changer de personnage beaucoup plus facilement en jeu grâce à une interface en forme de roue, simple et rapide à utiliser.***
-***- Avec une seule touche du clavier, vous pouvez sélectionner instantanément le personnage souhaité, avec une fluidité maximale et quasiment 0 latence.***
-# Des Questions ? Rejoins le discord : https://discord.gg/BY9nq6EUAP 
+***- Avec une seule touche du clavier, vous pouvez sélectionner instantanément le personnage souhaité, avec une fluidité maximale et 0 latence (0ms).***
+# Des Questions ? Rejoins le discord : https://discord.gg/BY9nq6EUAP
